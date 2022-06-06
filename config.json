@@ -1,0 +1,8 @@
+{
+	"ip":"KIngGodYT.aternos.me",
+	"port": "29944",
+	"name": "afkbot",
+         "login-enabled":"true",
+	"register-cmd":"/regiser 789987 789987",
+	"login-cmd":"/login 789987"
+}
